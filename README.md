@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jony452
-- 👀 I’m interested in pyton, django, html,css,javascript
+- 👀 I’m interested in python, django, html,css,javascript
 - 🌱 I’m currently learning full stack developement using python
 - 💞️ I’m looking to collaborate on python , html ,css, javascript
 - 📫 How to reach me ... jonysaini5321@gmail.com
